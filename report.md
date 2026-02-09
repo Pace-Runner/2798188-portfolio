@@ -1,0 +1,1 @@
+I have learnt how to create a git repository. I have also learnt how to clone clone a repository to my local desktop computer. I learnt the difference between git and github.
